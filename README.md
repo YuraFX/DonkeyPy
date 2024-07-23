@@ -13,13 +13,14 @@ avoid some donkeys on the road. There is no other goal but to avoid the donkeys.
 ## A little afterword
 
 I decided to set myself a challenge: to write a game in a few evenings, not using third-party libraries like Pygame, 
-but using only the standard Python libraries, namely: Tkinter, Time, Random and Winsound. All in all, it turned out very cool :)
+but using only the standard Python libraries, namely: [Tkinter](https://docs.python.org/3/library/tkinter.html), [Time](https://docs.python.org/3/library/time.html), 
+[Random](https://docs.python.org/3/library/random.html) and [Winsound](https://docs.python.org/3/library/winsound.html). All in all, it turned out very cool :)
 
 # How to play?
 
 [Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.0) ![windows](images/windows.png)Windows version in release.
 
-## About license
+## License
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" width="160" align="right">
 
