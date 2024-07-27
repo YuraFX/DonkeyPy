@@ -36,6 +36,8 @@ Instruction on how to run the game in ![android](images/android.png)Pydroid:
 
 Enjoying the game :)
 
+P.s - there are no sounds in this version of the game. Maybe in the future I will do it.
+
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
 
 ## License
