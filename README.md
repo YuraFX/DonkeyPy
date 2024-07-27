@@ -20,6 +20,24 @@ but using only the standard Python libraries, namely: [Tkinter](https://docs.pyt
 
 [Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.0) ![windows](images/windows.png)Windows version in release.
 
+Instruction on how to run the game in ![android](images/android.png)Pydroid:
+
+* IMPORTANT! This version of the game should theoretically work on devices with a screen resolution of 480 x 854 pixels. Personally, I tested everything on the BQ-5035 Velvet smartphone (Android 7.0 Nougat).
+
+1. Install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
+   
+2. Install [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=ru)
+   
+3. Download [DonkeyPy_Pydroid_480x854.zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.0/DonkeyPy_Pydroid_480x854.zip)
+   
+4. Using Total Commander, unzip the contents of the archive to any convenient place for you
+   
+5. Go into Pydroid and open the donkey.py file
+
+Enjoying the game :)
+
+<p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
+
 ## License
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" width="160" align="right">
