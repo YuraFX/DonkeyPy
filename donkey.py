@@ -15,6 +15,7 @@ import tkinter as tk
 import time
 from random import randint
 import winsound
+from xpad import get_dpad_state
 
 # Create the main application window
 window = tk.Tk()
@@ -23,7 +24,7 @@ window = tk.Tk()
 window.iconbitmap('resources\icon.ico')
 
 # Setting the window title
-window.title('DonkeyPy 1.0')
+window.title('DonkeyPy 1.1')
 
 # Get the width and height of the screen
 screen_width = window.winfo_screenwidth()
@@ -126,6 +127,24 @@ def move_car(event):
 window.bind('<KeyPress-Right>', move_car)
 window.bind('<KeyPress-Left>', move_car)
 
+# Car move function with gamepad
+def gamepad_move_car():
+    if car_y == 100:
+        return
+    else:
+        try:
+            dpad = get_dpad_state()
+            if dpad['right']:
+                car_label.place(x=380)
+                winsound.PlaySound('sounds\move_car.wav', 1)
+            elif dpad['left']:
+                car_label.place(x=250)
+                winsound.PlaySound('sounds\move_car.wav', 1)
+        except:
+            pass
+
+    window.after(50, gamepad_move_car)  # Check every 50ms
+
 # Game restart function
 def restart_game():
     global car_y, car_y_initial
@@ -143,6 +162,7 @@ def restart_game():
         donkey_count['text'] = int(donkey_count['text']) * 0
 
     change_road()
+    gamepad_move_car()
 
 # Uploading donkey image
 donkey = tk.PhotoImage(file='resources\donkey.png')
@@ -288,5 +308,6 @@ def change_road():
 
 move_donkey()
 change_road()
+gamepad_move_car()
 
 window.mainloop()
