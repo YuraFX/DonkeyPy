@@ -3,8 +3,6 @@
 <p align="center"><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/screenshot_1.png?raw=true" width="718"></p>
 <p align="center"><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/screenshot_2.png?raw=true" width="718"></p>
 
-![donate](https://github.com/YuraFX/DonkeyPy/blob/main/images/donation_alerts.png?raw=true) [Financial support](https://www.donationalerts.com/r/yura_fx)
-
 ## Game description
 
 A simple game in which the player drives a car but cannot steer, accelerate or brake, only changing lanes to 
@@ -18,11 +16,11 @@ but using only the standard Python libraries, namely: [Tkinter](https://docs.pyt
 
 # How to play?
 
-[Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.0) ![windows](images/windows.png)Windows version in release.
+[Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.1) ![windows](images/windows.png)Windows version in release.
 
 Instruction on how to run the game in ![android](images/android.png)Pydroid:
 
-* IMPORTANT! This version of the game should theoretically work on devices with a screen resolution of 480 x 854 pixels. Personally, I tested everything on the BQ-5035 Velvet smartphone (Android 7.0 Nougat).
+* IMPORTANT! This version of the game should theoretically work on devices with a screen resolution of 480 x 854 pixels. Personally, I tested everything on the BQ-5035 Velvet smartphone ([Android 7.0 Nougat](https://en.wikipedia.org/wiki/Android_Nougat)).
 
 1. Install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
    
