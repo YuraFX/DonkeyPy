@@ -38,9 +38,20 @@ P.s - there are no sounds in this version of the game. Maybe in the future I wil
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
 
-Instruction on how to run the game in ![debian](images/debian.png)Debian:
+Instruction on how to run the game in ![linux](images/linux.png)Linux (x86_64):
 
-* IMPORTANT! This version of the game runs on [Debian 10 "Buster"](https://www.debian.org/releases/buster/) and newer.
+* ### Supported OS:
+  ![debian](images/debian.png)Debian 10+
+  
+  ![ubuntu](images/ubuntu.png)Ubuntu 20.04+
+  
+  ![RHEL](images/RHEL.png)RHEL 8+
+  
+  ![fedora](images/fedora.png)Fedora 29+
+  
+  ![ALT_Linux](images/linux.png)ALT Linux p10+
+
+* ⚠️ Note: Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on glibc 2.28+ compatibility but have not been explicitly tested.
 
 1. Download [DonkeyPy (Linux x86_64).zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy.Linux.x86_64.zip)
 
