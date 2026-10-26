@@ -38,6 +38,31 @@ P.s - there are no sounds in this version of the game. Maybe in the future I wil
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
 
+Instruction on how to run the game in ![debian](images/debian.png)Debian:
+
+* IMPORTANT! This version of the game runs on [Debian 10 "Buster"](https://www.debian.org/releases/buster/) and newer.
+
+1. Download [DonkeyPy (Linux x86_64).zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy.Linux.x86_64.zip)
+
+2. Extract the archive. Inside, you will find a "DonkeyPy" folder, and inside it, a "dist" folder
+
+3. Open the "dist" folder
+
+4. Open a Terminal inside the "dist" folder
+
+5. Make the file executable (you only need to do this once). Run the following command:
+   ```bash
+   chmod +x DonkeyPy
+   ```
+6. Run the game:
+   ```bash
+   ./DonkeyPy
+   ```
+
+Note: Unfortunately, this version does not have sound, just like the Pydroid version.
+
+<p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/debian_10.png?raw=true" width="500"></p>
+
 ## License
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" width="160" align="right">
