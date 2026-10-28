@@ -16,13 +16,15 @@ but using only the standard Python libraries, namely: [Tkinter](https://docs.pyt
 
 ## How to play?
 
-### [Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.1) ![windows](images/windows.png) Windows version in release.
+### ![windows](images/windows.png) Windows
+
+Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy_v1_1.zip)
 
 ### ![android](images/android.png) Android (Pydroid)
 
-How to run the game in Pydroid 3:
+> ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Personally, I tested everything on the BQ-5035 Velvet smartphone ([Android 7.0 Nougat](https://en.wikipedia.org/wiki/Android_Nougat)).
 
-* IMPORTANT! This version of the game should theoretically work on devices with a screen resolution of 480 x 854 pixels. Personally, I tested everything on the BQ-5035 Velvet smartphone ([Android 7.0 Nougat](https://en.wikipedia.org/wiki/Android_Nougat)).
+How to run the game in Pydroid 3:
 
 1. Install [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
    
@@ -32,11 +34,11 @@ How to run the game in Pydroid 3:
    
 4. Using Total Commander, unzip the contents of the archive to any convenient place for you
    
-5. Go into Pydroid and open the donkey.py file
+5. Go into Pydroid and open the `donkey.py` file
 
-Enjoying the game :)
+6. Enjoying the game :)
 
-P.s - there are no sounds in this version of the game. Maybe in the future I will do it.
+> **Note:** There is **no sound** in this version of the game. It might be added in a future release.
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
 
@@ -53,15 +55,15 @@ P.s - there are no sounds in this version of the game. Maybe in the future I wil
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ALT_Linux](images/linux.png) ALT Linux p10+
 
-* ⚠️ Note: Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on glibc 2.28+ compatibility but have not been explicitly tested. A guide on how to run the game in Debian 10 is provided below:
+> ⚠️ **IMPORTANT!** Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on **glibc 2.28+** compatibility but have not been explicitly tested. A guide on how to run the game in Debian 10 is provided below:
 
 1. Download [DonkeyPy (Linux x86_64).zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy.Linux.x86_64.zip)
 
-2. Extract the archive. Inside, you will find a "DonkeyPy" folder, and inside it, a "dist" folder
+2. Extract the archive. Inside, you will find a `DonkeyPy` folder, and inside it, a `dist` folder
 
-3. Open the "dist" folder
+3. Open the `dist` folder
 
-4. Open a Terminal inside the "dist" folder
+4. Open a Terminal inside the `dist` folder
 
 5. Make the file executable (you only need to do this once). Run the following command:
    ```bash
@@ -72,7 +74,7 @@ P.s - there are no sounds in this version of the game. Maybe in the future I wil
    ./DonkeyPy
    ```
 
-Note: Unfortunately, this version does not have sound, just like the Pydroid version.
+> **Note:** Unfortunately, this version does not have sound, just like the Pydroid version.
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/debian_10.png?raw=true" width="500"></p>
 
