@@ -22,14 +22,14 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 ### ![android](images/android.png) Android (Pydroid)
 
-> ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Personally, I tested everything on the BQ-5035 Velvet smartphone ([Android 7.0 Nougat](https://en.wikipedia.org/wiki/Android_Nougat)).
+<img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="200" align="right">
 
-How to run the game in Pydroid 3:
+> ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Tested on a BQ-5035 Velvet ([Android 7.0 Nougat](https://developer.android.com/about/versions/nougat)).
 
 1. Install [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
    
 2. Install [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=ru)
-   
+
 3. Download [DonkeyPy_Pydroid_480x854.zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.0/DonkeyPy_Pydroid_480x854.zip)
    
 4. Using Total Commander, unzip the contents of the archive to any convenient place for you
@@ -39,8 +39,6 @@ How to run the game in Pydroid 3:
 6. Enjoying the game :)
 
 > **Note:** There is **no sound** in this version of the game. It might be added in a future release.
-
-<p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
 
 ### ![linux](images/linux.png) Linux (x86_64) 
 
@@ -59,13 +57,13 @@ How to run the game in Pydroid 3:
 
 1. Download [DonkeyPy (Linux x86_64).zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy.Linux.x86_64.zip)
 
-2. Extract the archive. Inside, you will find a `DonkeyPy` folder, and inside it, a `dist` folder
+2. Extract the archive. You will find a `dist` folder inside the `DonkeyPy` directory.
 
 3. Open the `dist` folder
 
 4. Open a Terminal inside the `dist` folder
 
-5. Make the file executable (you only need to do this once). Run the following command:
+5. Make the file executable (only needed once):
    ```bash
    chmod +x DonkeyPy
    ```
@@ -82,8 +80,10 @@ How to run the game in Pydroid 3:
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" width="160" align="right">
 
-This program is [free software](https://www.gnu.org/philosophy/free-sw.en.html): you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) as published by the [Free Software Foundation](https://www.fsf.org/), either version 3 of the License, or (at your option) any later version.
+Copyright © 2024, 2025 Yuriy Konyshev
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+DonkeyPy is [free software](https://www.gnu.org/philosophy/free-sw.en.html): you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) as published by the [Free Software Foundation](https://www.fsf.org/), either version 3 of the License, or (at your option) any later version.
 
-You should have received a [copy](https://github.com/YuraFX/DonkeyPy/blob/main/LICENSE) of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/licenses.en.html).
+DonkeyPy is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a [copy](https://github.com/YuraFX/DonkeyPy/blob/main/LICENSE) of the GNU General Public License along with DonkeyPy. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/licenses.en.html).
