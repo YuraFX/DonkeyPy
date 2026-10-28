@@ -22,8 +22,6 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 ### ![android](images/android.png) Android (Pydroid)
 
-<img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="200" align="right">
-
 > ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Tested on a BQ-5035 Velvet ([Android 7.0 Nougat](https://developer.android.com/about/versions/nougat)).
 
 1. Install [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
@@ -39,6 +37,8 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 6. Enjoying the game :)
 
 > **Note:** There is **no sound** in this version of the game. It might be added in a future release.
+
+<p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="240"></p>
 
 ### ![linux](images/linux.png) Linux (x86_64) 
 
