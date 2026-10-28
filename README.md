@@ -16,11 +16,11 @@ but using only the standard Python libraries, namely: [Tkinter](https://docs.pyt
 
 ## How to play?
 
-### ![windows](images/windows.png) Windows
+### <img src="images/test1.png" width="20" height="20" alt="windows"> Windows
 
 Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy_v1_1.zip)
 
-### ![android](images/android.png) Android (Pydroid)
+### <img src="images/test1.png" width="20" height="20" alt="android"> Android (Pydroid)
 
 > ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Tested on a BQ-5035 Velvet ([Android 7.0 Nougat](https://developer.android.com/about/versions/nougat)).
 
@@ -40,7 +40,7 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="240"></p>
 
-### ![linux](images/linux.png) Linux (x86_64) 
+### <img src="images/test1.png" width="20" height="20" alt="linux"> Linux (x86_64)
 
 * #### Supported OS:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![debian](images/debian.png) Debian 10+
