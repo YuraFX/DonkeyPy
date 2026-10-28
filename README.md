@@ -14,15 +14,17 @@ I decided to set myself a challenge: to write a game in a few evenings, not usin
 but using only the standard Python libraries, namely: [Tkinter](https://docs.python.org/3/library/tkinter.html), [Time](https://docs.python.org/3/library/time.html), 
 [Random](https://docs.python.org/3/library/random.html) and [Winsound](https://docs.python.org/3/library/winsound.html). All in all, it turned out very cool :)
 
-# How to play?
+## How to play?
 
-[Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.1) ![windows](images/windows.png)Windows version in release.
+### [Download](https://github.com/YuraFX/DonkeyPy/releases/tag/1.1) ![windows](images/windows.png) Windows version in release.
 
-Instruction on how to run the game in ![android](images/android.png)Pydroid:
+### ![android](images/android.png) Android (Pydroid)
+
+How to run the game in Pydroid 3:
 
 * IMPORTANT! This version of the game should theoretically work on devices with a screen resolution of 480 x 854 pixels. Personally, I tested everything on the BQ-5035 Velvet smartphone ([Android 7.0 Nougat](https://en.wikipedia.org/wiki/Android_Nougat)).
 
-1. Install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
+1. Install [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=ru)
    
 2. Install [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=ru)
    
@@ -38,20 +40,20 @@ P.s - there are no sounds in this version of the game. Maybe in the future I wil
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="280"></p>
 
-Instruction on how to run the game in ![linux](images/linux.png)Linux (x86_64):
+### ![linux](images/linux.png) Linux (x86_64) 
 
-* ### Supported OS:
-  ![debian](images/debian.png)Debian 10+
+* #### Supported OS:
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![debian](images/debian.png) Debian 10+
   
-  ![ubuntu](images/ubuntu.png)Ubuntu 20.04+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ubuntu](images/ubuntu.png) Ubuntu 20.04+
   
-  ![RHEL](images/RHEL.png)RHEL 8+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![RHEL](images/RHEL.png) RHEL 8+
   
-  ![fedora](images/fedora.png)Fedora 29+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![fedora](images/fedora.png) Fedora 29+
   
-  ![ALT_Linux](images/linux.png)ALT Linux p10+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ALT_Linux](images/linux.png) ALT Linux p10+
 
-* ⚠️ Note: Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on glibc 2.28+ compatibility but have not been explicitly tested.
+* ⚠️ Note: Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on glibc 2.28+ compatibility but have not been explicitly tested. A guide on how to run the game in Debian 10 is provided below:
 
 1. Download [DonkeyPy (Linux x86_64).zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy.Linux.x86_64.zip)
 
