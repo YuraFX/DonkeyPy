@@ -1,4 +1,4 @@
-<h1 align="center">Remake of the DOS game “Donkey” </h1>
+<h1 align="center">Remake of the <img src="images/dos.png" width="40" alt="dos"> game “Donkey”</h1>
 
 <p align="center"><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/screenshot_1.png?raw=true" width="718"></p>
 <p align="center"><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/screenshot_2.png?raw=true" width="718"></p>
@@ -11,16 +11,16 @@ avoid some donkeys on the road. There is no other goal but to avoid the donkeys.
 ## A little afterword
 
 I decided to set myself a challenge: to write a game in a few evenings, not using third-party libraries like Pygame, 
-but using only the standard Python libraries, namely: [Tkinter](https://docs.python.org/3/library/tkinter.html), [Time](https://docs.python.org/3/library/time.html), 
-[Random](https://docs.python.org/3/library/random.html) and [Winsound](https://docs.python.org/3/library/winsound.html). All in all, it turned out very cool :)
+but using only the standard Python libraries, namely: [tkinter](https://docs.python.org/3/library/tkinter.html), [time](https://docs.python.org/3/library/time.html), 
+[random](https://docs.python.org/3/library/random.html) and [winsound](https://docs.python.org/3/library/winsound.html). All in all, it turned out very cool :)
 
 ## How to play?
 
-### <img src="images/test1.png" width="20" height="20" alt="windows"> Windows
+### <img src="images/windows.png" width="20" height="20" alt="windows"> Windows
 
 Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy_v1_1.zip)
 
-### <img src="images/test1.png" width="20" height="20" alt="android"> Android (Pydroid)
+### <img src="images/android.png" width="20" height="20" alt="android"> Android (Pydroid)
 
 > ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Tested on a BQ-5035 Velvet ([Android 7.0 Nougat](https://developer.android.com/about/versions/nougat)).
 
@@ -40,7 +40,7 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 <p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="240"></p>
 
-### <img src="images/test1.png" width="20" height="20" alt="linux"> Linux (x86_64)
+### <img src="images/linux.png" width="20" height="20" alt="linux"> Linux (x86_64)
 
 * #### Supported OS:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![debian](images/debian.png) Debian 10+
@@ -51,7 +51,7 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![fedora](images/fedora.png) Fedora 29+
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ALT_Linux](images/linux.png) ALT Linux p10+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ALT_Linux](images/alt_linux.png) ALT Linux p10+
 
 > ⚠️ **IMPORTANT!** Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on **glibc 2.28+** compatibility but have not been explicitly tested. A guide on how to run the game in Debian 10 is provided below:
 
