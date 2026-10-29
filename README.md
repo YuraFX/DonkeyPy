@@ -1,7 +1,7 @@
-<h1 align="center">Remake of the <img src="images/dos.png" width="40" alt="dos"> game “Donkey”</h1>
+<h1 align="center">Remake of the <img src="docs/icons/dos.png" width="40" alt="dos"> game “Donkey”</h1>
 
-<p align="center"><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/screenshot_1.png?raw=true" width="718"></p>
-<p align="center"><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/screenshot_2.png?raw=true" width="718"></p>
+<p align="center"><img src="docs/screenshots/screenshot_1.png?raw=true" width="718"></p>
+<p align="center"><img src="docs/screenshots/screenshot_2.png?raw=true" width="718"></p>
 
 ## Game description
 
@@ -16,11 +16,11 @@ but using only the standard Python libraries, namely: [tkinter](https://docs.pyt
 
 ## How to play?
 
-### <img src="images/windows.png" width="20" height="20" alt="windows"> Windows
+### <img src="docs/icons/windows.png" width="20" height="20" alt="windows"> Windows
 
 Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy_v1_1.zip)
 
-### <img src="images/android.png" width="20" height="20" alt="android"> Android (Pydroid)
+### <img src="docs/icons/android.png" width="20" height="20" alt="android"> Android (Pydroid)
 
 > ⚠️ **IMPORTANT!** This version of the game should theoretically work on devices with a screen resolution of **480 x 854 pixels**. Tested on a BQ-5035 Velvet ([Android 7.0 Nougat](https://developer.android.com/about/versions/nougat)).
 
@@ -38,20 +38,20 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 > **Note:** There is **no sound** in this version of the game. It might be added in a future release.
 
-<p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/phone.png?raw=true" width="240"></p>
+<p align=""><img src="docs/screenshots/phone.png?raw=true" width="240"></p>
 
 ### <img src="images/linux.png" width="20" height="20" alt="linux"> Linux (x86_64)
 
 * #### Supported OS:
-   * <img src="images/debian.png" width="18" height="18" alt="debian"> Debian 10+
+   * <img src="docs/icons/debian.png" width="18" height="18" alt="debian"> Debian 10+
 
-   * <img src="images/ubuntu.png" width="18" height="18" alt="ubuntu"> Ubuntu 20.04+
+   * <img src="docs/icons/ubuntu.png" width="18" height="18" alt="ubuntu"> Ubuntu 20.04+
 
-   * <img src="images/RHEL.png" width="18" height="18" alt="RHEL"> RHEL 8+
+   * <img src="docs/icons/RHEL.png" width="18" height="18" alt="RHEL"> RHEL 8+
 
-   * <img src="images/fedora.png" width="18" height="18" alt="fedora"> Fedora 29+
+   * <img src="docs/icons/fedora.png" width="18" height="18" alt="fedora"> Fedora 29+
 
-   * <img src="images/alt_linux.png" width="18" height="18" alt="alt_linux"> ALT Linux p10+
+   * <img src="docs/icons/alt_linux.png" width="18" height="18" alt="alt_linux"> ALT Linux p10+
 
 > ⚠️ **IMPORTANT!** Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on **glibc 2.28+** compatibility but have not been explicitly tested. A guide on how to run the game in Debian 10 is provided below:
 
@@ -74,13 +74,13 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 > **Note:** Unfortunately, this version does not have sound, just like the Pydroid version.
 
-<p align=""><img src="https://github.com/YuraFX/DonkeyPy/blob/main/images/debian_10.png?raw=true" width="500"></p>
+<p align=""><img src="docs/screenshots/debian_10.png?raw=true" width="500"></p>
 
 ## License
 
-<img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" width="160" align="right">
+<img src="docs/icons/GPLv3.png" width="160" align="right">
 
-Copyright © 2024, 2025 Yuriy Konyshev
+Copyright © 2024, 2025, 2026 Yuriy Konyshev
 
 DonkeyPy is [free software](https://www.gnu.org/philosophy/free-sw.en.html): you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) as published by the [Free Software Foundation](https://www.fsf.org/), either version 3 of the License, or (at your option) any later version.
 
