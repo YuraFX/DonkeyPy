@@ -40,7 +40,7 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 <p align=""><img src="docs/screenshots/phone.png?raw=true" width="240"></p>
 
-### <img src="images/linux.png" width="20" height="20" alt="linux"> Linux (x86_64)
+### <img src="docs/icons/linux.png" width="20" height="20" alt="linux"> Linux (x86_64)
 
 * #### Supported OS:
    * <img src="docs/icons/debian.png" width="18" height="18" alt="debian"> Debian 10+
