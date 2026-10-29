@@ -43,7 +43,15 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 ### <img src="images/linux.png" width="20" height="20" alt="linux"> Linux (x86_64)
 
 * #### Supported OS:
+   * <img src="images/debian.png" width="18" height="18" alt="debian"> Debian 10+
 
+   * <img src="images/ubuntu.png" width="18" height="18" alt="ubuntu"> Ubuntu 20.04+
+
+   * <img src="images/RHEL.png" width="18" height="18" alt="RHEL"> RHEL 8+
+
+   * <img src="images/fedora.png" width="18" height="18" alt="fedora"> Fedora 29+
+
+   * <img src="images/alt_linux.png" width="18" height="18" alt="alt_linux"> ALT Linux p10+
 
 > ⚠️ **IMPORTANT!** Built and tested on [Debian 10 "Buster"](https://www.debian.org/releases/buster/). Other distributions are supported based on **glibc 2.28+** compatibility but have not been explicitly tested. A guide on how to run the game in Debian 10 is provided below:
 
