@@ -1,4 +1,4 @@
-# Copyright (C) 2024, 2025 Yuriy Konyshev
+# Copyright (C) 2024, 2025, 2026 Yuriy Konyshev
 #
 # This file is part of DonkeyPy.
 #
