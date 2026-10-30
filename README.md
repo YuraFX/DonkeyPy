@@ -78,9 +78,9 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 ## License
 
-<img src="docs/icons/GPLv3.png" width="160" align="right">
-
 Copyright © 2024, 2025, 2026 Yuriy Konyshev
+
+<img src="docs/icons/GPLv3.png" width="160" align="right">
 
 DonkeyPy is [free software](https://www.gnu.org/philosophy/free-sw.en.html): you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) as published by the [Free Software Foundation](https://www.fsf.org/), either version 3 of the License, or (at your option) any later version.
 
