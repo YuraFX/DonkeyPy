@@ -36,8 +36,6 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 6. Enjoying the game :)
 
-> **Note:** There is **no sound** in this version of the game. It might be added in a future release.
-
 <p align=""><img src="docs/screenshots/phone.png?raw=true" width="240"></p>
 
 ### <img src="docs/icons/linux.png" width="20" height="20" alt="linux"> Linux (x86_64)
@@ -57,7 +55,7 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
 
 1. Download [DonkeyPy (Linux x86_64).zip](https://github.com/YuraFX/DonkeyPy/releases/download/1.1/DonkeyPy.Linux.x86_64.zip)
 
-2. Extract the archive. You will find a `dist` folder inside the `DonkeyPy` directory.
+2. Extract the archive. You will find a `dist` folder inside the `DonkeyPy` directory
 
 3. Open the `dist` folder
 
@@ -72,9 +70,34 @@ Download the [latest version](https://github.com/YuraFX/DonkeyPy/releases/downlo
    ./DonkeyPy
    ```
 
-> **Note:** Unfortunately, this version does not have sound, just like the Pydroid version.
-
 <p align=""><img src="docs/screenshots/debian_10.png?raw=true" width="500"></p>
+
+#### Running on <img src="docs/icons/fedora.png" width="16" height="16" alt="fedora_44"> Fedora (tested on Fedora 44):
+
+1. Follow steps 1–4 from the Debian guide
+
+2. Install the required compatibility libraries:
+   ```bash
+   sudo dnf install libxcrypt-compat libnsl
+   ```
+
+3. Make the file executable (only needed once):
+   ```bash
+   chmod +x DonkeyPy
+   ```
+
+4. Run the game:
+   ```bash
+   ./DonkeyPy
+   ```
+
+<p align=""><img src="docs/screenshots/fedora_44.png?raw=true" width="500"></p>
+
+> **Note:** The Linux and Pydroid versions currently have no sound.
+
+## Acknowledgements
+
+* Thanks to **[Astron1304](https://www.reddit.com/user/Astron1304)** for testing the game on Fedora.
 
 ## License
 
